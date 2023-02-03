@@ -1,4 +1,4 @@
-# In the making
+# Movies Frontend
 
 ## Technology used - Bootstrap
 
